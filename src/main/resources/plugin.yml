@@ -1,0 +1,7 @@
+name: Pip
+version: 1.0
+main: com.chip.pip.Main
+author: Chipdev
+commands:
+  pip:
+    permission: pip.command
